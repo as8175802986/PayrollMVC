@@ -1,0 +1,14 @@
+E:\EmployeeMVC\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.exe
+E:\EmployeeMVC\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.deps.json
+E:\EmployeeMVC\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.runtimeconfig.json
+E:\EmployeeMVC\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.runtimeconfig.dev.json
+E:\EmployeeMVC\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+E:\EmployeeMVC\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+E:\EmployeeMVC\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.csproj.AssemblyReference.cache
+E:\EmployeeMVC\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\EmployeeMVC\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfoInputs.cache
+E:\EmployeeMVC\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfo.cs
+E:\EmployeeMVC\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.csproj.CoreCompileInputs.cache
+E:\EmployeeMVC\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.dll
+E:\EmployeeMVC\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.pdb
+E:\EmployeeMVC\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.genruntimeconfig.cache
